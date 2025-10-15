@@ -1,0 +1,138 @@
+{
+  "brand": {
+    "name": "Orange Delight",
+    "accent": "#FFA500"
+  },
+  "layout": "Simple",
+  "sections": [
+    {
+      "type": "Hero",
+      "variant": "centered",
+      "headline": "Fresh Oranges Delivered to Your Door",
+      "subheadline": "Enjoy juicy, hand-picked oranges straight from our orchard. Order now for fast, fresh delivery!",
+      "primaryCta": {
+        "label": "Shop Now",
+        "href": "/shop"
+      },
+      "image": {
+        "kind": "url",
+        "name": "Fresh Oranges",
+        "url": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc"
+      }
+    },
+    {
+      "type": "Features",
+      "items": [
+        {
+          "title": "Freshly Picked Daily",
+          "desc": "Our oranges are harvested every morning to ensure maximum freshness and flavor."
+        },
+        {
+          "title": "Naturally Sweet & Juicy",
+          "desc": "Enjoy the perfect balance of sweetness and juiciness in every bite, with no added sugars or preservatives."
+        },
+        {
+          "title": "Locally Grown",
+          "desc": "Support local farmers and reduce your carbon footprint with our regionally sourced oranges."
+        }
+      ]
+    },
+    {
+      "type": "Pricing",
+      "plans": [
+        {
+          "name": "Single Box",
+          "price": "$15",
+          "period": "one-time",
+          "features": [
+            "10 fresh oranges",
+            "Free shipping",
+            "Delivered in 3-5 days"
+          ]
+        },
+        {
+          "name": "Monthly Subscription",
+          "price": "$12",
+          "period": "per month",
+          "features": [
+            "10 fresh oranges every month",
+            "Priority shipping",
+            "Cancel anytime",
+            "Exclusive seasonal varieties"
+          ]
+        },
+        {
+          "name": "Family Pack",
+          "price": "$40",
+          "period": "one-time",
+          "features": [
+            "40 fresh oranges",
+            "Bulk discount",
+            "Free shipping",
+            "Perfect for families or events"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Testimonials",
+      "items": [
+        {
+          "name": "Sarah J.",
+          "quote": "The freshest oranges I've ever tasted! Fast delivery and great service."
+        },
+        {
+          "name": "Mike R.",
+          "quote": "I order every week—these oranges are juicy and delicious. Highly recommend!"
+        },
+        {
+          "name": "Linda P.",
+          "quote": "Excellent quality and unbeatable prices. My family loves these oranges!"
+        }
+      ]
+    },
+    {
+      "type": "FAQ",
+      "items": [
+        {
+          "q": "Where do your oranges come from?",
+          "a": "Our oranges are sourced directly from local farms to ensure maximum freshness and quality."
+        },
+        {
+          "q": "How can I place an order?",
+          "a": "You can place an order easily through our website by selecting your preferred quantity and checking out securely."
+        },
+        {
+          "q": "Do you offer delivery?",
+          "a": "Yes, we offer fast and reliable delivery to your doorstep. Delivery options and times are shown at checkout."
+        },
+        {
+          "q": "Are your oranges organic?",
+          "a": "We offer both organic and conventional oranges. You can choose your preference when ordering."
+        },
+        {
+          "q": "What if I am not satisfied with my purchase?",
+          "a": "Customer satisfaction is our priority. If you’re not happy with your oranges, contact us within 48 hours for a replacement or refund."
+        }
+      ]
+    },
+    {
+      "type": "CTA",
+      "headline": "Get Fresh Oranges Delivered to Your Doorstep!",
+      "cta": {
+        "label": "Order Now",
+        "href": "/order"
+      }
+    },
+    {
+      "type": "LeadCapture",
+      "headline": "Get Fresh Oranges Delivered to Your Door!",
+      "placeholder": "Enter your email for exclusive offers",
+      "button": "Subscribe Now"
+    },
+    {
+      "type": "Footer",
+      "note": "© 2024 Fresh Oranges. All rights reserved. Taste the difference every day."
+    }
+  ]
+}
